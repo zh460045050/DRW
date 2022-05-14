@@ -32,7 +32,7 @@ If you find our work useful in your research, please cite:
 \}</br>
 
 @article\{DRW_TIP,</br>
-  title=\{Dynamic random walk for superpixel segmentation\},</br></br>
+  title=\{Dynamic random walk for superpixel segmentation\},</br>
   author=\{Kang, Xuejing and Zhu, Lei and Ming, Anlong\},</br>
   journal=\{IEEE Transactions on Image Processing\},</br>
   volume=\{29\},</br>
