@@ -22,23 +22,23 @@ To run our code:
 
 If you find our work useful in your research, please cite:
 
-@inproceedings{DRW_ACCV,
-  title={Dynamic Random Walk for Superpixel Segmentation},
-  author={Zhu, Lei and Kang, Xuejing and Ming, Anlong and Zhang, Xuesong},
-  booktitle={Asian Conference on Computer Vision},
-  pages={540--554},
-  year={2018},
-  organization={Springer}
-}
+@inproceedings\{DRW_ACCV,</br>
+  title=\{Dynamic Random Walk for Superpixel Segmentation\},</br>
+  author=\{Zhu, Lei and Kang, Xuejing and Ming, Anlong and Zhang, Xuesong\},</br>
+  booktitle=\{Asian Conference on Computer Vision\},</br>
+  pages=\{540--554\},</br>
+  year=\{2018\},</br>
+  organization=\{Springer\}</br>
+\}</br>
 
-@article{DRW_TIP,
-  title={Dynamic random walk for superpixel segmentation},
-  author={Kang, Xuejing and Zhu, Lei and Ming, Anlong},
-  journal={IEEE Transactions on Image Processing},
-  volume={29},
-  pages={3871--3884},
-  year={2020},
-  publisher={IEEE}
-}
+@article\{DRW_TIP,</br>
+  title=\{Dynamic random walk for superpixel segmentation\},</br></br>
+  author=\{Kang, Xuejing and Zhu, Lei and Ming, Anlong\},</br>
+  journal=\{IEEE Transactions on Image Processing\},</br>
+  volume=\{29\},</br>
+  pages=\{3871--3884\},</br>
+  year=\{2020\},</br>
+  publisher=\{IEEE\}</br>
+\}</br>
 
 [arxiv]: https://ieeexplore.ieee.org/abstract/document/8967213/
